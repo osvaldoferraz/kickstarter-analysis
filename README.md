@@ -19,8 +19,9 @@ Based on successful Theater Kickstarter campigns in the U.S:
 ![Stats on U.S. Successful Kickstarters](https://user-images.githubusercontent.com/72593264/96358400-680d3180-10cc-11eb-8117-3b5ef08136fc.png)
 
 ## Fundrasing Timing
-Based on successful Theater Kickstarter campigns in the U.S, the best time of the year to start a fundraising in between May and June, as is shown on the graph below.
+Based on successful Theater Kickstarter campigns in the U.S, the the most successful campaings happened in the months of May and June, as shown in the graph below.
 
+![Outcomes Based on Launch Date chart](https://user-images.githubusercontent.com/72593264/96359065-e02b2580-10d3-11eb-925d-b5f66f85b8a8.png)
 
 
 
