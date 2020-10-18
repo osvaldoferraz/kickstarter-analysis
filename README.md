@@ -8,6 +8,7 @@ Using a Data Set from more then 4000 plays around the globe, after cleaning and 
 - The ideal lenght of the Kickstarter campaing
 
 Each of these points will be more explained below.
+
 ---
 
 ## Fundraising Goal
