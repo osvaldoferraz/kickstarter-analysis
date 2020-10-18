@@ -11,9 +11,16 @@ Each of these points will be explained below.
 
 ---
 
-## Fundraising Goal
-Based on successful Kickstarter campigns in the U.S:
+## Fundrasing Goal
+Based on successful Theater Kickstarter campigns in the U.S:
 - the average (mean) goal was $3446, and the average (mean) amount pledged was $3710.
 - the 50th percentile goal was $2750, and the 50th percentile pledged was $3265.
 
 ![Stats on U.S. Successful Kickstarters](https://user-images.githubusercontent.com/72593264/96358400-680d3180-10cc-11eb-8117-3b5ef08136fc.png)
+
+## Fundrasing Timing
+Based on successful Theater Kickstarter campigns in the U.S, the best time of the year to start a fundraising in between May and June, as is shown on the graph below.
+
+
+
+
