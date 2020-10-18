@@ -16,4 +16,4 @@ Based on successful Kickstarter campigns in the U.S:
 - the average (mean) goal was $3446, and the average (mean) amount pledged was $3710.
 - the 50th percentile goal was $2750, and the 50th percentile pledged was $3265.
 
-![Stats on U.S. Successful Kickstarters](/Users/osvaldoferraz/Desktop/Analysis_Projects/Crowdfunding_Analysis/Stats_us_successful.png)
+![Stats on U.S. Successful Kickstarters](https://user-images.githubusercontent.com/72593264/96358400-680d3180-10cc-11eb-8117-3b5ef08136fc.png)
