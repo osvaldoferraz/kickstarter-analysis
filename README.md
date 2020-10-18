@@ -12,4 +12,8 @@ Each of these points will be more explained below.
 ---
 
 ## Fundraising Goal
-Based on the most successful fundrainsing campigns, the best target was around $2000, as shown below:
+Based on successful Kickstarter campigns in the U.S:
+- the average (mean) goal was $3446, and the average (mean) amount pledged was $3710.
+- the 50th percentile goal was $2750, and the 50th percentile pledged was $3265.
+
+![Stats on U.S. Successful Kickstarters](Desktop/Analysis Projects/Crowdfunding Analysis/Stats_us_successful.png)
