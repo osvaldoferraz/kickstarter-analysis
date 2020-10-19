@@ -28,7 +28,7 @@ It shows that 73-76% of the kickstartes goals below $5000 were successful, secon
 However, the Kickstart table gives a sample of 317 Successful entries below $5000, but only 6 succesful entries with goals between $35000 and $45000 (see below)
 This discrepancy between these two samples gives a false impression that goals between 35-45k can be almost as successful than its pair below 5k, which is not necessarily truth.
 
-!
+![35_45k_6 entries](https://user-images.githubusercontent.com/72593264/96394998-0ced4480-1189-11eb-83b7-2b4233ddea31.png)
 
 - What are some other possible tables and/or graphs that we could create?
 
