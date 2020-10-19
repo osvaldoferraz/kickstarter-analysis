@@ -1,15 +1,19 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Analysis of a Data Set based on more the 4000 Kickstart Fundrasings around the globe.
+Analysis of a Data Set based on fundrasing campaings around the globe.
 
 ### Purpose
-Louise is a playwriter that wants information on how she can get the best outcome for her Kickstarter Fundraising Campaing for her play *Fever*.
+Louise is a playwriter that wants information on how she can get the best outcome for her play *Fever* Kickstarter Fundraising Campaing. To achieve that, she wanted to know how launch dates and funding goals would impact the success of the fundraiser.
 
 ## Analysis and Challenges
+In order to answer Louise's questions, I used the Kickstarter Data Set to gather information about the outcomes based on launch dates, and also outcomes based on goals.
 
 
 ### Analysis of Outcomes Based on Launch Date
+For this analysis, I created a Pivot Table that summarized all the final outcomes - Success, Failed and Cancelled - for all plays, against the months of the year.
+
+
 
 ### Analysis of Outcomes Based on Goals
 
