@@ -1,27 +1,36 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter Campaigns data to uncover trends
----
-The purpose of this analysis is to help finding trends to have a successful Kickstarter campaing to fund a Theater play in the U.S, comparing also some data on specific plays from Great Brittain.
-Using a Data Set from more then 4000 plays around the globe, after cleaning and filtering the data, and aplying statistics concepts, I was able to draw conclusions regarding:
-- The ideal target goal value.
-- The ideal time of the year for the Kickstarter campaign
-- The ideal lenght of the Kickstarter campaing
+# Kickstarting with Excel
 
-Each of these points will be explained below.
+## Overview of Project
 
----
+### Purpose
 
-## Fundrasing Goal
-Based on successful Theater Kickstarter campigns in the U.S:
-- the average (mean) goal was $3446, and the average (mean) amount pledged was $3710.
-- the 50th percentile goal was $2750, and the 50th percentile pledged was $3265.
+## Analysis and Challenges
 
-![Stats on U.S. Successful Kickstarters](https://user-images.githubusercontent.com/72593264/96358400-680d3180-10cc-11eb-8117-3b5ef08136fc.png)
+### Analysis of Outcomes Based on Launch Date
 
-## Fundrasing Timing
-Based on successful Theater Kickstarter campigns in the U.S, the the most successful campaings happened in the months of May and June, as shown in the graph below.
+### Analysis of Outcomes Based on Goals
 
-![Outcomes Based on Launch Date chart](https://user-images.githubusercontent.com/72593264/96359065-e02b2580-10d3-11eb-925d-b5f66f85b8a8.png)
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Best month to begin a Fundraising Kickstart Campaign for Theater is May.
+The worst month to begin a Fundraising Kickstart Campaign for Theater is December
+
+- What can you conclude about the Outcomes based on Goals?
+Most successful Fundraising Kickstart campaigns for Theater had goals below $5000
+
+- What are some limitations of this dataset?
+The table does not have enough information to draw conclusions in an accurat way.
+For example, Outcomes Based on Goal graph can give a false impression on its information, because the data is not properly weighted. 
+It shows that 73-76% of the kickstartes goals below $5000 were successful, seconded by goals from $35000 to $45000, with a success rate of 67%.
+However, the Kickstart table gives a sample of 317 Successful entries below $5000, but only 6 succesful samples with goals between $35000 and $45000.
+This discrepancy between these two samples gives a false impression that goals between 35-45k can be almost as successful than its pair below 5k, which is not necessarily truth.
+THis table also has outliars that were not pinpointed and can interfere in the information 
+
+
+- What are some other possible tables and/or graphs that we could create?
 
 
 
