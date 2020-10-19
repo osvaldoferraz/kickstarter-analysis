@@ -22,15 +22,16 @@ The worst month to begin a Fundraising Kickstart Campaign for Theater is Decembe
 Most successful Fundraising Kickstart campaigns for Theater had goals below $5000
 
 - What are some limitations of this dataset?
-The table does not have enough information to draw conclusions in an accurat way.
-For example, Outcomes Based on Goal graph can give a false impression on its information, because the data is not properly weighted. 
+The table does not have enough information to draw conclusions in an accurate way.
+For example, Outcomes Based on Goal graph can give a false impression on the outcomes, because the data is not properly weighted. 
 It shows that 73-76% of the kickstartes goals below $5000 were successful, seconded by goals from $35000 to $45000, with a success rate of 67%.
-However, the Kickstart table gives a sample of 317 Successful entries below $5000, but only 6 succesful samples with goals between $35000 and $45000.
+However, the Kickstart table gives a sample of 317 Successful entries below $5000, but only 6 succesful entries with goals between $35000 and $45000 (see below)
 This discrepancy between these two samples gives a false impression that goals between 35-45k can be almost as successful than its pair below 5k, which is not necessarily truth.
-THis table also has outliars that were not pinpointed and can interfere in the information 
 
+!
 
 - What are some other possible tables and/or graphs that we could create?
+
 
 
 
