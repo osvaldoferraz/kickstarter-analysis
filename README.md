@@ -17,7 +17,10 @@ For this analysis, I created a Pivot Table that summarized all the final outcome
 
 To make the results clear, a line graph was created that clearly shows in what months we have the most successful campaings and also the most unsucceful ones too.
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/72593264/96398080-99e7cc00-1190-11eb-997b-4f4844aac188.png)
 
+Based on this graph, seasonality plays an important role in successful campaigns, with a big spike in the month of May bringing the most number of succesfull campaings. It is also worthwihle to notice that December is a month with very few successfull outcomes.
+Seasonality does not seem to play a hughe role on failed campaigns though, as the line is almost the same during the whole year.
 
 ### Analysis of Outcomes Based on Goals
 
