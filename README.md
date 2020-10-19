@@ -7,11 +7,15 @@ Analysis of a Data Set based on fundrasing campaings around the globe.
 Louise is a playwriter that wants information on how she can get the best outcome for her play *Fever* Kickstarter Fundraising Campaing. To achieve that, she wanted to know how launch dates and funding goals would impact the success of the fundraiser.
 
 ## Analysis and Challenges
-In order to answer Louise's questions, I used the Kickstarter Data Set to gather information about the outcomes based on launch dates, and also outcomes based on goals.
+In order to answer Louise's questions, I used the Kickstarter Data Set to gather information about the outcomes based on launch dates and also outcomes based on goals.
 
 
 ### Analysis of Outcomes Based on Launch Date
-For this analysis, I created a Pivot Table that summarized all the final outcomes - Success, Failed and Cancelled - for all plays, against the months of the year.
+For this analysis, I created a Pivot Table that summarized all the final outcomes - Success, Failed and Cancelled - for the plays, against months of the year that those plays had started their campaigns. This sample ranges from 2009 to 2017, totalling 1369 campigns, an amount that can give a good idea about the seasonality of these successful events.
+
+![Launch Date PivotTable](https://user-images.githubusercontent.com/72593264/96397437-2b563e80-118f-11eb-9647-9553facee9b5.png)
+
+To make the results clear, a line graph was created that clearly shows in what months we have the most successful campaings and also the most unsucceful ones too.
 
 
 
