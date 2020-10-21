@@ -24,7 +24,9 @@ Seasonality does not seem to play a hughe role on failed campaigns though, as th
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](~/Users/osvaldoferraz/Desktop/Development/Outcomes_vs_Goals.png)
+The analysis of outcomes based on goals reveals that goals can influence the success of a given campaign. The sample in the data set was very broad, ranging from less than $1k to more than $100k in goals. To narrow the data, taking in consideration that Louise's goal is arround $10k, I filtered the plays that would range from less than 1k up to 50k. Below is a line graph that reflects the success rate against goals. 
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/72593264/96680268-cd665a00-133a-11eb-8730-5592eef26349.png)
 
 
 
@@ -32,17 +34,17 @@ Seasonality does not seem to play a hughe role on failed campaigns though, as th
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- *What are two conclusions you can draw about the Outcomes based on Launch Date?*
 Best month to begin a Fundraising Kickstart Campaign for Theater is May.
 The worst month to begin a Fundraising Kickstart Campaign for Theater is December
 
-- What can you conclude about the Outcomes based on Goals?
+- *What can you conclude about the Outcomes based on Goals?*
 Most successful Fundraising Kickstart campaigns for Theater had goals below $5000
 
-- What are some limitations of this dataset?
+- *What are some limitations of this dataset?*
 The table does not have enough information to draw conclusions in an accurate way.
-For example, Outcomes Based on Goal graph can give a false impression on the outcomes, because the data is not properly weighted. 
-It shows that 73-76% of the kickstartes goals below $5000 were successful, seconded by goals from $35000 to $45000, with a success rate of 67%.
+For example: Outcomes Based on Goal graph can give a false impression on the outcomes, because the data is not properly weighted. 
+It shows that 73-76% of the campaign goals below $5000 were successful, seconded by goals from $35000 to $45000, with a success rate of 67%.
 However, the Kickstart table gives a sample of 317 successful entries below $5000, but only 6 succesful entries with goals between $35000 and $45000 (see below)
 This discrepancy between these two samples gives a false impression that goals between 35-45k can be almost as successful than its pair below 5k, which is not necessarily truth.
 
