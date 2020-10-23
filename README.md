@@ -31,7 +31,7 @@ The analysis of outcomes based on goals reveals that goals can influence the suc
 It is noticeble that, generally speaking, the smaller the goal, higher is the chance of a successful capaign. That seems to be specially true from less then 1k until 29.9k, with special attention to the very succesful range of 1k to 5k (73% of success rate). It is worthy to notice that in this dataset there is also a spike of successful capaings with goals between 30k and 44.9k (67% of success rate).
 
 ### Challenges and Difficulties Encountered
-In order to give the best advice to Louise, more that data would be needed. The 'Outcomes Based on Goal' does not give a good information (more explanation on this will be given below, under 'what are some limitations of this dataset'). 
+In order to give the best advice to Louise, more that data would be needed. The 'Outcomes Based on Goal' does not give a good information (more explanation on this will be given below, under 'Results - What are some limitations of this dataset'). 
 
 
 ## Results
